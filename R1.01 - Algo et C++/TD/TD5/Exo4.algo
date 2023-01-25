@@ -1,0 +1,55 @@
+algorithme compteurVoyelle
+debut 
+    declarer voyelle : tableau_de 6 string;
+    declarer chaine : tableau_de X entier;
+    declarer tabNbChaqueVoyelle : tableau_de entier_naturel;
+    voyelle <- "aeiouy";
+    chaine <- "Je suis une chaine de caractere";
+    pour (i variant_de 0 a taille(voyelle)-1) 
+    faire
+        tabNbChaqueVoyelle[i] <- 0;
+    ffaire
+    pour (i variant_de 0 a taille(voyelle)-1) 
+    faire
+        tabNbChaqueVoyelle[i] <- comptCaractV2(voyelle[i],chaine);
+    ffaire
+    declarer somme : entier_naturel <- 0;
+    pour (i variant_de 0 a taille(voyelle)-1)
+    faire 
+        somme <- somme + tabNbChaqueVoyelle[i];
+    ffaire
+    pour (i variant_de 0 a taille(voyelle)-1) 
+    faire
+        afficher("La voyelle ", voyelle[i], " apparait ", tabNbChaqueVoyelle[i], " fois et en relatif ", 
+                 tabNbChaqueVoyelle[i]*100/somme);
+        ligne_suivante;
+    ffaire
+fin
+
+//correction:
+
+algorithme comptPetitEnsembleV1
+debut 
+    declarer chaine : string <- "aille aille ouille";
+    declarer voyelles : constante string <- "aeiouy";
+    declarer tabCpt : tableau_de taille(voyelles) entier_naturel;
+
+    pour (i variant_de 0 a taille (tabCpt) -1)
+    faire
+        tabCpt[i] <- comptCaract (voyelle[i], chaine);
+    ffaire
+
+    declarer somme : entier_naturel <- 0;
+    pour (i variant_de 0 a taille (tabCpt) -1)
+    faire
+        somme <- somme + tabCpt[i];
+    ffaire
+
+    pour (i variant_de 0 a taille (tabCpt) -1)
+    faire
+        afficher ("la voyelle", voyelle[i], "apparait ", 
+        tabCpt[i], " fois en absolu et ", 
+        tabCpt[i] * 100 / somme , " % en relatif") ;
+        ligne_suivante;
+    ffaire
+fin
