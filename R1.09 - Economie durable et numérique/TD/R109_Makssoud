@@ -1,0 +1,344 @@
+Title: Economie durable et numérique
+author: C.Makssoud
+
+
+Dossier1: Enjeux économiques des données de l'informaion
+
+S1: L'impact de numérique sur les relations d'échanges
+	Les nouvelles technologies sont au coeur des relations de partenariats entre les entreprises. Le digital a faciclité l'apparition de nouveaux acteurs dans tous les secteurs
+
+	I. De nouvelles opportunités et de nouveaux partenaires
+		Le numérique a donnée naissance a de nombreuses innovations. Les acteurs en place comme Amazon/Google se sont diversifié pour adapter leurs offres aux entreprises. D'autre se sont spécialisé en accompagnement de la transformation numérique. 
+
+	II. Les nouvelles modalités d'échange avec les partenaires 
+		- Un phénomène de désintermédiation = En relation direct avec leurs clients, les entreprises du E-commerce, concentré sur un produit, éliminent tous les intermédiaires.
+		- Un phénomène de réintermédiation = L'organisation des échanges via les places de marché (plateformes virtuelles) permet la relation entre vendeurs et acheteurs avec mise a disposition d'outils et de services qui facilitent les échanges (Amazon leader du E-commerce)
+
+	III. L'émergence d'une nouvelle concurrence
+		Le digital a favorisé l'apparition d'acteurs qui sont venues perturber les marchés traditionnels. Cette nouvelle concurrence qui s'est accéléré avec la multiplication des outils nomades a vu se développer les pure players qui vendent uniquement sur internetet les marketplaces concurent des enseignes traditionnelles
+
+	IV. Les externalités de réseaux
+		Le bouleversement des flux d'informations et a la fois une menace et une opportunité pour l'entreprises: les plateformes se developpent par les éffets de réseaux, l'offre comparé, la réputation de l'entreprise peut être remis en cause.
+
+	Exercice:
+		1. Par exemple concrès, illustré la désintermédiation ?
+		2. Qui sont les acteurs de la réintermédiation (Prendre le cas d'un entreprise) ?
+		1. Label car elle permettent aux artiste de distribuer leurs musiques via des grandes enseignes
+		2. Amazon car e-commerce
+
+S2: L'impacte du numérique sur les modes de consommation et de production
+	Le numérique contribue a la mise en place de nouveaux modèles économiques tant du point de vu de la consommation que de la production
+
+	I. L'impacte du numérique sur les modes de consommations 
+		Le numérique change le rapport au produit et la posséssion et facilite le developpement de _l'économie d'usage_. Le consomateur privilégie l'usage a la propriété par l'abonnement, la location ou le partage (économie collaborative). Ces pratiques de consomation alternative apparue en tant de crise persiste malgrè la reprise économique. 1/3 des francais utilise une plateforme d'économie collaborative pour organiser ces vacances
+
+	II. L'impacte du numérique sur les modes de productions
+		Le numérique transforme la facon de produire l'enjeu est la transformation profonde de l'emploie de sa structure de sa localisation et son contenue par:
+			- L'automatisation des tâches et l'optimisation des procédés de productions 
+			- Amélioration de la fléxibilité et de la réactivité permettant une meilleure adaptation de l'offre aux l'attentes des clients
+			- Remise en cause du fonctionnement et de l'organisation des filières
+			- Evolution des qualifications, compétences, métiers et status des salariés  
+
+	III. L'impacte du numérique sur les modèles économiques
+		Un modèle éco. a pour fonctions de décrire la manière dont une entreprise fait des affaires créait de la valeur et assure ainsi sa périnité. Le numérique a contribué a modifier la structure des coûts et a dev. de nouvelles méthodes de tarrification. 
+
+S3: Les marchés des données 
+	I. DCP = Données à caractère personnel
+		= toutes info relative qui peut etre identifier de manière directe ou indirecte:
+		ex: adresse ip = dcp car permet de retrouver la personne qui s'est connecter
+		On peut donc l'id de manière indirecte par le bié de son fournisseur d'accès internet
+		ex: nuléro de sécu car num unique pour chaque personne
+		Connaissance plusieurs info grace au num (h/f date naissance + lieu de naissance)
+		7type:
+			l'id (nom prénom)
+			vie perso (habitudes)
+			vie prof. (travail diplome)
+			status (impots revenue)
+			localisation (adresse tel)
+			judicière (casier)
+			sensible (opinion pol.)
+		DCP concerne que personne physique pas objet/entreprise
+		utilisation de DCP:
+			orga. peuvent récolté données / DCP (ex: vidéo surveillance)
+			photo salarié = DCP
+			CNIL chargé protection des DCP
+			drésser profil type de conso pour achat en ligne (cookies)
+			email=DCP
+
+	II. Big data
+		La définition du Big Data est la suivante : des données plus variées, arrivant dans des volumes croissants et à une vitesse plus élevée. C’est ce que l’on appelle les trois "V" (vitesse, volume, variété).
+		Ces ensembles de données sont si volumineux qu’un logiciel de traitement de données traditionnel ne peut tout simplement pas les gérer. Mais ces énormes volumes de données peuvent être utilisés pour résoudre des problèmes que vous n’auriez jamais pu résoudre auparavant.
+		Le bigdata permet a tout le monde d'accéder en temps réel a des bases de données immense. Il gère l'ensemble des données.
+		Fonctionnement en 3 étapes:
+			intégrer: rassemblement de données
+			gérer: stocker les données rassemblé
+			analyser: se servir des données rassemblé et stocké
+
+	III. Opendata
+
+Dossier2: Fondement de l'économie
+
+S1: Les acteurs de l'économie
+	L'activité éco. renvoie a l'activité des agents éco. Ces agents n'ont pas tous la mm activité principale. Il convient donc de les regrouper par grande catég. de fonction qu'ils remplissent dans l'act. éco. 
+
+	I. Le circuit économique 
+		A. Les agents éco.
+			Un agent éco. est un individu, un groupe ou une institution qui va s'orga. pour satisfaire ses besoins. Chaque agent constitue un centre de decision unique et indep. Les decisions prisent par les agents sont de nature éco. (travailler, consommer, produire, ...). Face a la multitude d'agents éco., la contabilité nationnale les classe en grandes catégo. qui regroupent des agents ayant un comportement éco. simil. caractérisé par une mm fonction éco. principale. 
+			- les ménages: un ménage est un indiv. ou un grp d'indiv. vivant habituellement dans un mm logement qu'il est entre eux un lien de parenté ou non et dont la fonction pricipale est la conso. grâce aux revenues primaires (salaire) et aux revenues de transfert (presta. soc.). Il regroupe également les entrepreneurs indiv. (agriculteur, prof. lib., petits commercants, artisants) dont la fonction principale est de produire des biens et des servives.
+			- les entreprises: elles ont comme fonction princ. la prod. de biens et de services marchants non financié. Leurs ressources proviennent de leurs chiffre d'affaire (résultat de la vente). Elles créent de la valeur ajouté qui contribue a la richesse du pays et elles distribuent des salires en contreparti du travail éffectué par les ménages. Somme des valeurs ajoutés des entrep. => PIB. 
+			- les administrations publics: Elles répondent aux besoins d'un int. géné. de la pop. Elles comprennent l'état, la sécu. soc. et les collectivités locales (communes, dep, régions). Elles produisents des biens et des services non-marchant et redistribuent les richesses entre les agents. Leurs ressources proviennent des prélèvements obl. (impôts, taxes).
+			- les sociétés financières: Comprend les banques, les assurences et les organisme de crédit. Les soc. financ. produisent des services financiers et d'assu. Les fonctions princip. d'une banque sont de fournir des moyens de payements, de collecter l'épargne dispo. et d'octroyer des crédits pour financer l'éco.
+			- ISBLSM = les institutions sans but lucra. au service des ménages: regroupe assoc., syndicats, parti pol., lieu de culte, organismes de charités. Leurs fonc. princip. est la prod. de biens et services non-marchants. Leurs ressources pricip. proviennent des dons, des subventions publ., cotisation volontaire.
+			- le reste du monde: les ménages et les entrep. situé a l'étrangé avec lesquels nous échangons. Le reste du monde regroupe les agents éco. non résident qui entretiennent des relations éco. avec des unités résidentes.
+
+		B. Les échanges entre les acteurs éco.
+			Les agents éco. peuvent réal. des opérations quin peuvent être regroup. par nature
+			- les op. sur biens et services qui retrace la provenance des prod. transitant sur le marché et leurs utilisations. 
+			- les op. financiaires qui désignent les op. par lesquels les act. éco. se procure des moyens de finnancements ou alors mettent a dispo. leurs moyens de financements par l'inter. des banques.
+
+		C. Les flux éco.
+			Schma: circuit de base de l'éco. nationale
+					=> Marché <-
+			Ménages  			 Entreprises 
+					-> Marché <=
+			=> flux monétaires/financiers
+			-> flux réels
+
+			Les flux réel sont repr. par l'échange de biens et de services (marchandises, travail)
+			Les flux financiers sont repr. par la contre-partie des flux réel (paiments, salaires)
+
+		D. Le schéma du circuit éco.
+			Il permet de visu. et comprendre les liens éco. entre les acteurs. Les dépenses des uns font les revenues des autres. Les achats de certains permettent a d'autre de vendre leur prod. Il se définit commme la présentation simplifié des enchainements éco. décrivant les grandes opérations réal. par les agents éco.
+			-la prod.
+			-la repartition
+			-la conso.
+			Tout acte éco. d'un agent a donc une conséquence sur un autre agent a un autre endroit du circuit. De plus le circuit est de plus en plus ouvert sur l'exterieur dans le cadre de la mondialisation des échanges.
+			Regarder feuille pour schéma
+	II. La modialisation 
+		C'est un mvt. qui symbolise le dev. de l'act. éco. dans une optique plus entre nations mais véritablement mondiale. La mond. se trad. par:
+			- Un internationalisation plus poussé des firmes qui, au delas des échanges interna. vont prod. hors de leurs frontières (augementation des investissement direct a l'étranger)
+			- Une globalisation financ.: création d'un immense marché interna. des capitaux qui a permit aux grandes entrep. de financer les investissements interna. mais qui est a l'origine d'un déséuillibre financier interna.
+			- L'interdépendence des pol. éco.: les états n'ont plus de liberté d'act. dans la mise en oeuvre des pol. éco. 
+		La mond. necessite la mise place d'un régulation qui passe notemment par le renfo. des institutions interna. suceptible de peser sur l'éco. mond.
+
+S2: Les marché et leurs dysfonctionnement
+	Ds le monde éco. actu. le marché tient une place centrale dans l'orga. 
+
+	I. La fonction du marché
+		A. La def. du marché
+			Tout biens ou services ne pouvant pas être obtenu ds la nature fait l'objet d'un échange sur le marché. Le marché est le lieu de la rencontre réel ou fictive. Le marché est le lieu phys. ou virtu. ou les échanges s'installent. Il permet a l'ensemble des individus d'attribuer une val. aux biens ou aux services qu'ils désirent échanger en fonction de l'utilité qu'ils leurs attribuent
+
+		B. Les participants au marché
+			Les offreurs (vendeurs) et les demandeurs (acheteurs) qui souhaitent échanger se manifestent sur le marché. L'obj des offreurs est de vendre au prix qui dégage le bénéfice le + élevé possible. L'obj des demandeurs est d'acquérir des prod. destiné a satis. leurs besoins a un prix compatible avec leurs revenues 
+
+		C. Les différents types de marché
+			Il existe diff types de marché sur lesquels se rencontrent des offreurs et des demandeurs.
+			- Le marché des biens/services: C le marché sur lequelle s'échange les biens et services marchants qui regroupent tous les biens materiel et immateriel destiné a la vente. Les entrep. sont les offreurs. Les ménages, les administrations et les entrep. sont les demandeurs 
+			- Le marché des biens de prod.: Les offreurs ne peuvent être que des entrep. et les demandeurs enterp. et admin.
+			- Le marché du travail: C le lieu de rencontre entre la demande de trav. émanant des employeurs et l'offre de travail des indiv. Leur rencontre deter. le salaire qui représente le prix du travail. Les ménages sont les offreurs et entrep. et admin les demandeurs
+			- Le marché de l'emploie: Les entrep., les admin. sont les offreurs, les ménages sont les demandeurs.
+			- Le marché des capitaux: C le lieu de rencontre des agents qui disposent d'une épargne dispo. (agents à capacité de financement) avec des agents qui souhaitent emprunter (agent à besoin de financement)
+			- Les marché des changes: Institution financière sont offreurs et demandeurs
+
+	II. Le fonctionnement des marchés 
+		A. L'éco. de marché 
+			// est le syst. éco. d'échane le + répendu dans le monde. Il repose sur les lois du marché de l'offre/demande ds un env. concu. Il s'accompagne le + souvent d'une certaine forme de regulation par l'autorité publ. Cette régul. garenti le libre accès des participants au marché et contribue de ce fait a l'efficacité éco. du marché. Les act. du marché qui ne respectent pas ces règles peuvent être sanctionné par les tribunaux.
+		
+		B. La deter. et le rôle du prix sur les diff. marchés
+			La fonc. première du marché est de permettre la rencontre entre l'O/D (offre/ demande) afin que se fixe un prix d'échange. Ce prix appelé "prix d'équilibre" est celui qui permettra a l'ensemble porposé de rencontrer une demande. Pour réal cet équilibre, le prix est fixé par tatonoment succéssif. Il va ansi influencer les quantités offretes et demandés 
+
+			demande:
+			1. Lorsque le prix est trop élevé, la demande va ds la plupart des cas diminuer: les indiv. cherchent a maximiser leurs satisfactions en tenant compte de la contrainte de leurs budjet
+			2. Si le prix est top élevé certains consomateurs vont être décourager et les quantité vont diminué. La demande est donc une fonc. décroissante du prix. 
+			Remarque: Il existe des situations ou la demande ne suit pas ce mecanisme. Consomation ostentatoir pour les produit de luxe (prix élevé => demande élevé) 
+
+			Inversement: Lorsque le prix est élevé, l'offre va avoir tendence a augementer. Les entrep. attiré par des perspectives de profits + élevé vont prod. d'avantage. L'offre est donc une fonction croissante du prix 
+			Remarque: la situation s'inverse lorsque le prix est trop bas. La demande augemente alors que certaines entrep. se retirent du marché qui n'est pas assez rentable. Le prod. devient rare et son prix augemente 
+
+			Sur le marché le prix joue le rôle de signal. En effet il permet aux agents éco. d'éval. la val. du bien/service sur le marché et d'orienter leurs choix. En fonction de la rareté des ressources et de l'intensité de la demande il varie a la hausse ou a la baisse et indique aux agents comment opti. leurs satisfaction.
+
+		Travail: Chercher comment fixer un prix sur un marché, le rôle des prix sur le marché et les règles
+			Fixer au niveau de la concu., étude de la demande sur le marché, taux marge, coûts de reviens (charges, etc)
+			Prix de vente = bénéfice souhaité + coût de revient
+		
+		C. Condition de la concu. et de la coopération entre les acteurs du marché
+			En fonction de la concu., les agents éco. élaborent des strat. leur permettant d'opti. leur pos. sur le marché
+			A. Les conditions de la concu.
+				Un marché est dit concurentiel lorsque les offreurs et les demandeurs peuvent librement se confronter et que le prix sert de variable entre l'offre et la demande. Pour fonctionner de facon opti., le marché doit respecter certaines règles _théoriques_:
+					- l'info. véhiculé par le prix doit être parfaite = transparence du marché
+					- l'abscence de barrières a l'entrée ou a la sortie du marché qui permet aux agents éco. de choisir librement et sans contrainte le marché sur lequel ils souhaitent intervenir = fluidité du marché
+					- atomicité du marché = nb d'offreurs et de demandeurs sur le marché est tellement important qu'aucun d'eux ne peut avoir de pos. dominante et influencer le fonctionnement du marché
+					- la concu. porte uniquement sur le prix = l'homogénéité du produit sur le marché
+					- chaques entreprises profitent des mm cond. de prod. = la mobilité de facteur de prod. 
+
+			B. La coopération sur le marché
+				Dans la réal. éco., les cond. théo. sont rarement respecté. La plus part des entrep. cherchent a influencer le marché a leur avantage: soit en se différentien de leur concu. soit en élaborant des start. de coop. avec eux. Certaine strat. de coop. sont autorisé car elles n'ont pas pour objet d'échapper a la concu. mais d'améliorer l'offre sur le marché. Par contre, lorsque l'objectif de la coop. est de manipuler les info. dispo. afin de fausser le choix des agents éco., elle est interdite. 
+
+	III. Les dysfonctionnements du marché
+		Plusieurs situations de défaillance et de dysfonctionnement du marché sont possible si le prix n'assure plus sa fonctionde régulation entre l'O/D. 
+
+		A. Les barrières a l'entrée et la mise en place de stratégies par les acteurs éco.
+			Les barrrières a l'entrée désigne un obstacle qui rend difficile ou impossible l'implantation d'une entrep. sur un marché. Deux types de barrière:
+				- les barrières a l'entrée naturelle = elles sont indepandente de la volonté des prod. Elles sont liés aux caractéristiques du marché, a la nature de l'activité ou a la reglementation mise en place par l'état
+				- les barrières a l'éntrée artificielle = elles correspondent aux stratégies misent en place par les entrep. pour rendre plus difficile l'accès des entrep. concurente au marché
+
+		B. L'existance d'asymétries d'informations
+			L'asymétrie d'information décrit un situation dans laquelle tous les participants a un marché ne disposent pas de la mm info. Certains agents sont donc avantagé car ils détiennent des info. que les autres n'ont pas. Ils peuvent alors influencer la fixation du prix et donc les asym. d'info. doivent être éliminé
+
+		C. L'existance d'externalités 
+			Le marché n'intègre pas l'ensemble des conséquence des choix éco. des agents. Ansi certaine des décisions qui sont prise peuvent avoir un impacte sur le bien être des autres agents éco. Sans pour autant être intégré dans le prix ou donner lieu a une contrepartie financière. Il existe deux externalités:
+				- externalité positive = elles améliorent le bien être des autres agents éco. (installation apiculteur). 
+				- externalité négative = elles entraînent une dégradation du bien être des autres agents éco.(pollution géner. par usine). 
+
+		Conclusion: le prix n'est donc par garant d'une efficacité optimale du marché et il est alors necéssaire a l'état d'intervenir pour garentir un fonctionnement suffiseent satisfaisant pour permettre les échanges.
+
+
+S3: croissance et déséquilibre économique
+	La mesure des richesses produite par une économie présente des enjeux importants. Elle permet par exemple de suivre la dynamique de croissance et elle rend possible les comparaisons internationnales. Dans ces perspective, il convient d'ident. un indicateur de richesse qui soit a la hauteur de ces enjeux. Aujoud'hui il reste courant de mesurer les richesses produitent en utilisant le produit interieur brut. Pour le comprendre, il est necessaire de comprendre la notion de valeurs ajoutée pour mieux comprendre le fonctionnement du PIB et ses limites. Pour les dépasser, des indicateurs complémentaires au PIB sont ajoud'hui utilisé au niveau nationnal et par des organismes internationaux.
+
+	I. La valeur ajoutée (VA)
+		La VA se mesure au niveau de l'act. de prod. d'un agent éco. La VA est la différence entre la val. de cette prod. et la val. de côuts intermédiaire (matières premières et services achetés a l'exterieur pour produire ). La VA est une mesure de la richesse produite par une entreprise. 
+		Chiffre d'affaire = quantité vendu * prix de vente 
+		Valeur ajoutée = CA - coûts intermédiaire
+		Résultat de l'entreprise ( bénéficed ou pertes) = VA - charges
+		Somme VA = PIB
+		La VA devra permettre de rémunerer les facteurs de prod. ( travail et capital ) qui sont a l'origine de la création de cette richesse. Le calcule de la VA est facile a réal. dans le cas d'une prod. marchande = qui s'échange sur un marché a un prix qui couvre au moins 50% de son coût de prod. Mais ce calcule est plus difficile dans le cas d'une prod. non-marchande. On adopte une autre mesure qui consiste a calculer a diff entre les dépense de prod. moyen de prod. et coup intermédiaire. 
+	
+	II. Le PIB
+		L'ativité éco. se mesure a partir d'indicateurs tel que le PIB considéré comme l'indicateur pricipal. Il mesure la richesse créer par un pays sur une periode donnée. Il engage les prod. marchandes et les prod. non-marchande. Il est défini comme étant le somme des valeurs ajoutées réal. a l'interieur d'un pays par l'ensemble des branches pour une periode donnée et quelque soit la nationnalité dans entrep. implémenté dans le pays. Le PIB est utilisé pour mesurer la croissance éco. d'un grp de pays, d'un pays, d'une région. On calcule alors l'evo. entre 2 années. Sa variation permet de calcule le taux de croissance. Et le PIB par habitants est souvent retenue pour éffcectuer des comparaison entre les pays.
+
+	III. Les limites du PIB 
+	 	Mm si le PIB par habitant donne un éclairage intéressant sur le niveau de richesse d'un pays. Le PIB reste un indicateur incomplet. Il a été créé en 1934 pour mesurer l'effet de la grande dépréssion sur l'éco. et il apparait en France en 1946. Dès 1974, un économiste américain a montré que la richesse d'un pays mesuré par le PIB n'était pas le reflet du niveau de bien-être de ses habitants. Le paradoxe montré est que le niv. de bien-être s'améliore significativement lorsque le PIB par habitant passe d'un niveau faible a un niveau moyen mais que la progression du PIB a des niveaux plus élevés n'améliore pas toujours le bien-être voir le déteriore. Certains pays très riche ont donc un niveau de bien-être inferieur a ceux d'autres pays moins riche illustrant l'expréssion selon laquelle l'argent ne fait pas le bonheur.
+	 	Le PIB prend en compte des activités aux conséquence nuisible pour l'homme, dégradation de l'env., épuisement des ressoures nat., accident de la route. Mas ce calcule n'intègre pas:
+	 		- les dégâts causé a l'env.
+	 		- les richesses nat. ou leurs épuisements
+	 		- l'impact d'une catastrophe nat., d'une guerre
+	 		- les act. non rémunéré comme le travail domestique / bénévolat
+	 		- les activités rémunéré mais non déclaré (act. illégales, travaill au black)
+	 		- le niveau de dev. d'un pays
+
+	IV. Les indicateurs complémentaires
+		Pour l'ensemble de ces raisons, certains pays et organisme internat. ont dev. complémentaire au PIB qui insiste d'avantage sur des aspects qualitatifs et pas uniquement éco.
+
+		A/ L'IDH
+			L'IDH a été créé par la programme des nations unis pour le dev. en 1990 afin de proposer une vision plus fine et qualitative de la situation d'un pays que celle fournit par le PIB. C'est un indicateur qui fait la synthèse de 3 series de données: L'éspérence de vie a la naissance, niveau d'instruction mesuré par la durée moyenne de scolarisation et la durée attendu de la scolérisation, niveau de vie calculé en parité de pouvoir d'achat cad. un montant assurant le mm pouvoir dans tous les pays. L'IDH se présente comme un nombre sans unité compris entre 0 et 1, plus le niveau se rapproche de 1 plus le niveau de dev. est élevé. C'est un classement annuel des pays. Ce qui compte le plus dans l'IDH ce n'est pas le niveau absolut mais le rang du pays dans le classement mondial
+		
+		B/ Le HPI (happy planet index)
+			L'HPI propose pour sa part de combiner 4 indicateurs: (l'emprinte écologique, l'espérence de vie, degrès de bien être, inégalités de revenue) pour classer les pays entre eux avec un indicateur dont la valeur varie entre 0 et 100. Cet indicateur engendre un classement très différent de celui qui serait obtenue avec le PIB. En privilégiant des aspect qualitatif, cet indicateur place en tête des petit pays ou la qualité de vie est bonne alors que l'on retrouve beaucoup plus loin dans le classement les grandes puissances économique mondiale.
+
+		Conclusion
+			Et si on remplacait le PIB par le BNB(Bonheur Nationnal Brut) c'est ce qu'a fait en 1972 le Bhoutan (800000 habitants) 72 critères de mesure ont été mit en place. Le BNB s'appuie sur 4 grands principes: croissance et dev. éco., conservation de la culture, sauvegarde de l'env. et gouvernance responsable
+			-------+-----------------------------+------------------------------------------+-------------------------------------------+---------------------------------------+
+			       | PIB                         |IDH                                       |HPI                                        |BNB                                    |
+			-------+-----------------------------+------------------------------------------+-------------------------------------------+---------------------------------------+
+			2021   : usa,chine,japon,allemagne,uk|suisse,norvege,islande,hong kong,australie|costa rica,vanuatu,colombie,suisse,equateur|finlande,danemark,islande,suisse,paybas|
+			2020   :			     			 |				      					    |					    					|                                       |
+			2019   :			     			 |											|					    					|					    				|
+			france : 7			     			 | 28										| 20				    					| 20			            			|
+			-------+-----------------------------+------------------------------------------+-------------------------------------------+---------------------------------------+
+
+S4: Les politiques économiques
+	L'état intervient dans l'économie pour assurer bon fonctionnement, il corrige les dysfonctionnemment et les défaillance du marcher, pour reguler l'activité. L'état rempli 3 grandes fonctions, en intervenant dans l'économie, fonction d'allocation, pour corriger les défaillances du marché, fonction de redistribution, pour corriger les inégalités crée par le marché, en effectuant des prélevement (impots taxes) et en versant des prestations sociales, fonction de régulation, pour corriger les déséquilibre sur les marchés, trop de chomage, inflation, en soutenant ou en freinant l'activité. L'action de l'état est guidé par le choix des politiques économiques, pour atteindre des objectifs, a cour terme dans le cadre de la politique conjoncturelle (cours terme) et a plus long terme en matiere de politique structurel (long terme) action mener par l'état tout en respectant l'environnement.
+	 
+				   ____ 4 objectifs principaux : croissance correcte et élevée(taux croissance), l'inflation modérée (taux inflation),
+				  /     un chomage faible(taux chaumage),soldes exterieur positif(+d'exportation que d'importation)  
+				 /
+	la politique economique <		   ___ politique conjoncturelle, stabilise a court terme
+				 \					  /
+				  \____ 2 grands types de politiques éco <
+									  \___ politique strucutrelle, stabilise a long terme et respectueux de l'environnement 
+
+
+	La politique conjoncturelle : elle désigne l'action de l'état a cours terme qui vise a reguler l'activité économique.
+
+				     ________ politique budgetaire : budget de l'état la politique budgetaire désigne l'ensemble des mesures prisent par les pouvoirs publiques 
+				    /        \                       pour reguler l'activité économique par l'utilisation de son budget
+				    |         \
+				    |	       \______ le budget de l'état peut etre défini comme l'ensemble des documents voté par le 
+				    |               \  parlement qui prévoit et autorise les ressources et les dépendances de l'état pour
+				    |	             \ chaque année : le budget de l'état est une loie appellé loi de finance 
+				    |                |\
+	la politique conjonctuelle <	 | \___politique de relance : politique conjoncturelle visant a soutenir l'activité économique
+				    |                |
+				    |		     	 \	
+				    |                 \____politique de rigueur : politique conjoncturelle viant a limiter les déficites publiques et a 
+				    |                                             réduire l'endetement de l'état ou a lutter contre l'inflation 
+				    |	
+				    \________ politique monétaire :  elle désigne l'action par laquelle la banque centrale agit sur la quantité de monnaie en circulation et ainsi sur les conditoons
+					     \			     de financement de l'économie
+					     |\
+					     | \___ politique monetaire de relance : dans son cadre la banque centrale diminue son taux directeur (taux auquelle les banques commerciales
+					     |                                       empreinte de la monnaie a la bce) pour encourager la demande de crédit par les ménages et entreprises  
+					     |					     et favoriser la croissance
+					     \
+					      \____ politique monetaire de rigueur : elle augment son taux directeur, pour limiter le volume des crédits distribué par les banques
+						   \				     commerciales et contenir l'inflation 
+						    \
+						     \__ inflantion : peut etre causer par un acces de monnai, qui peut augmenter la demande sur le marché des biens et des services 
+								      par rapport aux capacités de demandes pour y repondre entrainant une hausse des prix
+
+
+	la politique structurelle : elle désigne l'action de l'état a long terme visant a agir sur les structures économiques et le fonctionnement des différents marchés
+
+					 	 _____ ameliorer la compétitivité_
+						/     |
+				       /      |
+				      /	      |\_____
+				     /        |
+			        /	      \
+				   /	       \_____
+	la politique structurelle <
+				   |
+				   |
+				   |\
+				   | \_______ameliorer le fonctionnement des marchés
+				   |	     |		
+				   |	     |\
+				   |	     | \____
+				   |	     |
+				   |	     \
+				   |	      \_____
+				   |	     
+				   |	     
+				   \
+				    \
+				     \_______permettre la transition énergétique 
+
+
+
+	inflation & chomage 
+
+	inflation : est défini par une hausse durable du niveau général du niveau des prix cela revele un déséquilibre économuique sur le marché des biens et des services 
+	l'inflation rampante : taux des hausses des prix est faible mais continu 
+	l'inflation déclaré : hausse général et rapide des prix 
+	l'inflation galopante : taux de hausse des prix comporte deux a trois chiffre. 
+
+	cause inflation : 
+	lorsque la demande des consommateur depasse la capacité de production des entreprises on parle d'inflation par la demande 
+	lorsque les couts de production des entreprises augmentent on parle d'inflation par les couts 
+	lorsque la masse monétaire en situation augment de maniere excessive on parle d'inflation monétaire 
+
+	si taux d'inflation dépasse le taux d'augmentation du revenu des ménages, l'inflation fait baisser le pouvoir d'achat des ménages, pénalise le commerce exterieur
+	et entraine une augmentation des taux d'interets freinant le recours au crédit pour la consomnation et l'investissement 
+
+	chomage : le chomage est mesuré par le taux de chomage c 'est a dire la proportion de personnes sans emploi dans la population active 
+	emploi précaire = contrat temporaire, intérim, cdd, contrat de travail temporaire, contrat aidé
+	premiere circonstance d'entrée dans le chomage est l'arrive du terme d'un emploi précaire,
+	on distingue 3 causes économiques de chomage, 
+	premiere cause : rigidité du marché du travail, qui résulte d'un manque d'adaptation de l'emploi et de sa rémuneration au variation de la demande et de la concurence 
+	deuxieme cause : niveau d'activité insuffisante, manque de déboucher 
+	troisieme cause : une offre et une demande de travail en inéquation dut a une pénurie de main d'oeuvre qualifié
+	quatrieme cause : recul du départ de l'age a la retraite 
+
+	il y a deux sortes de mesure pour lutter contre le chomage, des mesures actives, elle incite a reprendre une activité professionnelles via le biais de formation
+	a soutenir l'emploi pour les aides pour les bas salaire, pour inciter a l'emploi
+	reprendre une activité professionel se former et soutenir l'emploi
+
+	les mesures passives qui permettent de faire face a la période de chomage, 
+	indémnités de chomage, ou soutienne le retrait d'activité.
+	
+
+
+		
+
+END
