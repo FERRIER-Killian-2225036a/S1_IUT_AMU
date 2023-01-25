@@ -1,0 +1,16 @@
+procedure triInsertion (tab : in_out tableau_de entier)
+debut
+    declarer temp : entier ;
+    declarer j : entier_naturel;
+    pour ( i variant_de 1 a taille(tab)-1)
+    faire
+        temp <- tab[i];
+        j <- i ;
+        tant_que ( j > 0 et_alors tab[j-1] > temp)
+        faire
+            tab[j] <- tab[j-1];
+            j <- j - 1 ;
+        ffaire
+        tab[j] <- temp;
+    ffaire
+fin
