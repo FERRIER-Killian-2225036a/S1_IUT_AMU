@@ -5,7 +5,7 @@ Cours en B.U.T informatique à l'IUT d'Aix-en-Provence Semestre 1
 
 ## Téléchargement
 ```
-gh repo clone killbib-coder/S1_IUT-amu
+gh repo clone killianFerrierf22012793/S1_IUT_AMU
 ```
 ## Cours
 [R1.01 - Algorithmie et C++](R1.01%20-%20Algo%20et%20C%2B%2B)
